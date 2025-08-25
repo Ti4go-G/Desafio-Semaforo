@@ -31,8 +31,8 @@ Conforme as regras do desafio, o semáforo possui as seguintes funcionalidades:
   Basta clonar este repositório e abrir o arquivo `index.html` no seu navegador de preferência.
   
   ```bash
-  git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
-  cd nome-do-repositorio
+  git clone [https://github.com/Ti4go-G/Desafio-Semaforo.git](https://github.com/Ti4go-G/Desafio-Semaforo.git)
+  cd Desafio-Semaforo
   # Agora, abra o arquivo index.html no navegador
   ```
 
